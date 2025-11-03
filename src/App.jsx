@@ -43,7 +43,7 @@ export default function App() {
         /* Post component here 💖*/
         <Post />
       }
-      Test Deploy
+      Test Deploy Successful
     </div>
   );
 }
